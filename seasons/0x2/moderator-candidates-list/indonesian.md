@@ -9,3 +9,6 @@
 
 - Discord user name: `Zoor Kriid#5442`
 - UnUniFi address : `ununifi1pnndh4ge5svw86myh3ng9cd0s729y4x3eh5gn8`
+
+- Discord user name: `Miracle#6026`
+- UnUniFi address : `ununifi1ktarhsn9wyrwgjyet8dtteg89v3ttr3a72xnzs`
